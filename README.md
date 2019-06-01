@@ -6,12 +6,11 @@
 
 #### A mobile-friendly Website for general population incident avoidance
 
-This is a UW cross-disciplinary Capstone project sponsored by Challenge Seattle, WSDOT, and King County Metro amongst many other companies and organizations in the public and private sector.
+This is a UW cross-disciplinary Capstone project sponsored by Mobility Innovation Center, Challenge Seattle, WSDOT, King County Metro, and Sound Transit.
 
 When traffic incidents occur in the Greater Seattle area, our sponsors relay important information through social 
 media, traditional media, electronic roadway signs, and low-power radio stations along with some rare usage of 
-mobile alert systems such as AlertSeattle. While these methods reach a broad group of road users, they fail to 
-reach every road user and do not provide adequate real-time transit recommendations and updates.  
+mobile alert systems such as AlertSeattle. While these methods reach a broad group of road users, they do not provide adequate real-time transit recommendations and updates.  
 They are also not able to reach every consumer with specific information about incidents and the best 
 course of action to take. Our sponsors are seeking recommendations for innovative solutions for wide-reaching 
 notification of traffic incidents and solutions for transportation mode-shifting, departure time recommendations, 
@@ -33,7 +32,7 @@ partnerships, incentives, etc?
 2. Recommend design guidelines for KCM's future mobile ticketing solutions.
     - Promptly informing the general population of incidents which impact their commute
     - Behavior change and modeshift behavior reinforcement
-
+    
 ##  Final Clickable Demo 
 [Demo Webpage](https://annykong.github.io/uwcapstone-modeshift/)(https://annykong.github.io/uwcapstone-modeshift/)  |
 [Demo GitHub Repo](https://github.com/AnnyKong/uwcapstone-modeshift)
