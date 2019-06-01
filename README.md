@@ -11,8 +11,8 @@ This is a UW cross-disciplinary Capstone project sponsored by Challenge Seattle,
 When traffic incidents occur in the Greater Seattle area, our sponsors relay important information through social 
 media, traditional media, electronic roadway signs, and low-power radio stations along with some rare usage of 
 mobile alert systems such as AlertSeattle. While these methods reach a broad group of road users, they fail to 
-reach every road user and do not provide adequate solutions in the form of real-time transit recommendations and 
-updates. They are also not able to reach every consumer with specific information about incidents and the best 
+reach every road user and do not provide adequate real-time transit recommendations and updates.  
+They are also not able to reach every consumer with specific information about incidents and the best 
 course of action to take. Our sponsors are seeking recommendations for innovative solutions for wide-reaching 
 notification of traffic incidents and solutions for transportation mode-shifting, departure time recommendations, 
 and route shifts during and shortly after traffic incidents.
@@ -22,16 +22,15 @@ and route shifts during and shortly after traffic incidents.
 mobile solutions for their needs in a timely manner?*
 
 ### Goals
-Our goal is to create an innovative solution that can help the general public navigate or avoid major incidents 
+Our goal is to create an innovative solution that can help the general public navigate through or completely avoid major incidents 
 and related congestion. When a major incident or multiple major incidents occur, our solution will provide a 
 platform where users can be informed of congestion information, departure time shifts, routing recommendations, 
-and support for transportation mode shifting. It is developed with assumptions of the ongoing development of a 
-Traffic Incident Management - Congestion Management "Virtual Command Center"
+and support for transportation mode shifting. It is being developed under the assumption of the impending release of the Virtual Command Center, a collective cloud-based information sharing solution between Seattle area transit agencies. 
 
-We identified two areas of importance that we focus on for this project: 
+We identified two areas of importance for this project: 
 1. How user groups can better access or take advantage of current ticketing apps through marketing, 
 partnerships, incentives, etc?
-2. Recommend design guidelines Metro should consider requiring for future mobile ticketing apps.
+2. Recommend design guidelines for KCM's future mobile ticketing solutions.
     - Promptly informing the general population of incidents which impact their commute
     - Behavior change and modeshift behavior reinforcement
 
